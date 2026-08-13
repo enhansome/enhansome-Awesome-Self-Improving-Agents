@@ -1,0 +1,97 @@
+{
+  "items": [
+    {
+      "description": "|Self-Improvements in Modern Agentic Systems: A Survey | | LaTeX source | Agent-oriented guide|",
+      "items": [],
+      "title": "📄 Survey Paper"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📚 Key Literature"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🛣️ Evolution of Self-Improving Agents"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🔖 Papers List"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📏 Measuring Improvement"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🧪 Benchmarking Improvement"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Foundation-Model-Level"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scaffold-Level"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Software Engineering"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Web Navigation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Gaming & Strategy"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scientific Discovery"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Embodied AI"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "General Computer Control"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🔗 Related Resources"
+    },
+    {
+      "description": "PRs are welcome!",
+      "items": [],
+      "title": "🤝 Contribute"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📌 Citation"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T20:04:02.521Z",
+    "original_repository": "selfimproving-agent/Awesome-Self-Improving-Agents",
+    "original_repository_sha": "97854c44bfe636abb1101c1bd0eab3b7020c975c",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Self-Improving-Agents",
+    "enhanced_repository_description": null,
+    "title": "Awesome Self Improving Agents with stars"
+  }
+}

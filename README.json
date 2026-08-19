@@ -1,94 +1,9 @@
 {
-  "items": [
-    {
-      "description": "|Self-Improvements in Modern Agentic Systems: A Survey | | LaTeX source | Agent-oriented guide|",
-      "items": [],
-      "title": "📄 Survey Paper"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "📚 Key Literature"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🛣️ Evolution of Self-Improving Agents"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🔖 Papers List"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "📏 Measuring Improvement"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🧪 Benchmarking Improvement"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Foundation-Model-Level"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Scaffold-Level"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Software Engineering"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Web Navigation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Gaming & Strategy"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Scientific Discovery"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Embodied AI"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "General Computer Control"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🔗 Related Resources"
-    },
-    {
-      "description": "PRs are welcome!",
-      "items": [],
-      "title": "🤝 Contribute"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "📌 Citation"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T19:47:45.105Z",
+    "last_updated": "2026-08-19T12:13:25.685Z",
     "original_repository": "selfimproving-agent/Awesome-Self-Improving-Agents",
+    "original_repository_id": 1124003611,
     "original_repository_sha": "871592e37039ce2665b2f7be0e528ab118c7a8e5",
     "enhanced_repository": "enhansome/enhansome-Awesome-Self-Improving-Agents",
     "enhanced_repository_description": null,

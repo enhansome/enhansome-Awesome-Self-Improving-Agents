@@ -5,8 +5,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "Self-Instruct: Aligning Language Models with Self-Generated Instructions ACL paper code",
+          "title": "yizhongw/self-instruct",
+          "description": "Self-Instruct: Aligning Language Models with Self-Generated Instructions ACL paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -20,8 +20,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "SELF-GUIDE: Better Task-Specific Instruction Following via Self-Synthetic Finetuning COLM paper code",
+          "title": "zhaochenyang20/Prompt2Model-Self-Guide",
+          "description": "SELF-GUIDE: Better Task-Specific Instruction Following via Self-Synthetic Finetuning COLM paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -35,8 +35,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "Superficial Self-Improved Reasoners Benefit from Model Merging EMNLP paper code",
+          "title": "xiangchi-yuan/merge_syn",
+          "description": "Superficial Self-Improved Reasoners Benefit from Model Merging EMNLP paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -50,8 +50,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "Will Pre-Training Ever End? A First Step Toward Next-Generation Foundation MLLMs via Self-Improving Systematic Cognition arXiv paper code",
+          "title": "thunlp/SICOG",
+          "description": "Will Pre-Training Ever End? A First Step Toward Next-Generation Foundation MLLMs via Self-Improving Systematic Cognition arXiv paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -65,8 +65,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "TaskCraft: Automated Generation of Agentic Tasks arXiv paper code",
+          "title": "OPPO-PersonalAI/TaskCraft",
+          "description": "TaskCraft: Automated Generation of Agentic Tasks arXiv paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -80,8 +80,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "Iterative Tool Usage Exploration for Multimodal Agents via Step-wise Preference Tuning NeurIPS paper code",
+          "title": "SPORT-Agents/SPORT-Agents",
+          "description": "Iterative Tool Usage Exploration for Multimodal Agents via Step-wise Preference Tuning NeurIPS paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -95,8 +95,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "Maximizing Confidence Alone Improves Reasoning arXiv paper code",
+          "title": "satrams/rent-rl",
+          "description": "Maximizing Confidence Alone Improves Reasoning arXiv paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -110,8 +110,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "DIVE: Diversified Iterative Self-Improvement arXiv paper code",
+          "title": "qinyiwei/DIVE",
+          "description": "DIVE: Diversified Iterative Self-Improvement arXiv paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -125,8 +125,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "Self-Adapting Language Models NeurIPS paper code",
+          "title": "Continual-Intelligence/SEAL",
+          "description": "Self-Adapting Language Models NeurIPS paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -140,8 +140,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "First SFT, Second RL, Third UPT: Continual Improving Multi-Modal LLM Reasoning via Unsupervised Post-Training NeurIPS paper code",
+          "title": "waltonfuture/MM-UPT",
+          "description": "First SFT, Second RL, Third UPT: Continual Improving Multi-Modal LLM Reasoning via Unsupervised Post-Training NeurIPS paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -155,8 +155,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "Adapting While Learning: Grounding LLMs for Scientific Problems with Tool Usage Adaptation ICML paper code",
+          "title": "Rose-STL-Lab/Adapting-While-Learning",
+          "description": "Adapting While Learning: Grounding LLMs for Scientific Problems with Tool Usage Adaptation ICML paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -170,8 +170,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026",
-          "description": "Reinforcing General Reasoning Without Verifiers ICLR paper code",
+          "title": "sail-sg/VeriFree",
+          "description": "Reinforcing General Reasoning Without Verifiers ICLR paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -185,8 +185,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026",
-          "description": "ANDES: Agent Native Data Evolving Synthesis Tool for Autonomous Instruction Alignment arXiv paper code",
+          "title": "zzy1127/ANDES",
+          "description": "ANDES: Agent Native Data Evolving Synthesis Tool for Autonomous Instruction Alignment arXiv paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -200,8 +200,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026",
-          "description": "EvoGround: Self-Evolving Video Agents for Video Temporal Grounding arXiv paper code",
+          "title": "minjoong507/EvoGround",
+          "description": "EvoGround: Self-Evolving Video Agents for Video Temporal Grounding arXiv paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -221,8 +221,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "Constitutional AI: Harmlessness from AI Feedback arXiv paper code",
+          "title": "anthropics/ConstitutionalHarmlessnessPaper",
+          "description": "Constitutional AI: Harmlessness from AI Feedback arXiv paper",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -236,8 +236,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "Self-Evolved Reward Learning for LLMs ICLR paper code",
+          "title": "microsoft/DKI_LLM",
+          "description": "Self-Evolved Reward Learning for LLMs ICLR paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -251,8 +251,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "Right Question is Already Half the Answer: Fully Unsupervised LLM Reasoning Incentivization NeurIPS paper code",
+          "title": "QingyangZhang/EMPO",
+          "description": "Right Question is Already Half the Answer: Fully Unsupervised LLM Reasoning Incentivization NeurIPS paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -266,8 +266,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "TTRL: Test-Time Reinforcement Learning NeurIPS paper code",
+          "title": "PRIME-RL/TTRL",
+          "description": "TTRL: Test-Time Reinforcement Learning NeurIPS paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -281,8 +281,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "Can Large Reasoning Models Self-Train? arXiv paper code",
+          "title": "tajwarfahim/srt",
+          "description": "Can Large Reasoning Models Self-Train? arXiv paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -296,8 +296,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "Self-Evolving Curriculum for LLM Reasoning arXiv paper code",
+          "title": "ServiceNow/sec",
+          "description": "Self-Evolving Curriculum for LLM Reasoning arXiv paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -311,8 +311,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "Adaptive Self-improvement LLM Agentic System for ML Library Development ICML paper code",
+          "title": "zhang677/PCL-lite",
+          "description": "Adaptive Self-improvement LLM Agentic System for ML Library Development ICML paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -326,8 +326,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026",
-          "description": "Learning to Reason without External Rewards ICLR paper code",
+          "title": "sunblaze-ucb/Intuitor",
+          "description": "Learning to Reason without External Rewards ICLR paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -341,8 +341,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026",
-          "description": "iReasoner: Trajectory-Aware Intrinsic Reasoning Supervision for Self-Evolving Large Multimodal Models arXiv paper code",
+          "title": "meghanaasunil/iReasoner",
+          "description": "iReasoner: Trajectory-Aware Intrinsic Reasoning Supervision for Self-Evolving Large Multimodal Models arXiv paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -367,8 +367,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2023",
-              "description": "RoboCat: A Self-Improving Generalist Agent for Robotic Manipulation TMLR paper code",
+              "title": "keirp/automatic_prompt_engineer",
+              "description": "RoboCat: A Self-Improving Generalist Agent for Robotic Manipulation TMLR paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -382,8 +382,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning arXiv paper code",
+              "title": "RUC-NLPIR/Tool-Star",
+              "description": "Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -397,8 +397,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "CodeARC: Benchmarking Reasoning Capabilities of LLM Agents for Inductive Program Synthesis COLM paper code",
+              "title": "Anjiang-Wei/CodeARC",
+              "description": "CodeARC: Benchmarking Reasoning Capabilities of LLM Agents for Inductive Program Synthesis COLM paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -412,8 +412,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning ICLR paper code",
+              "title": "THUDM/WebRL",
+              "description": "WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning ICLR paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -427,8 +427,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "Self-Improving Language Models for Evolutionary Program Synthesis: A Case Study on ARC-AGI ICML paper code",
+              "title": "flowersteam/SOAR",
+              "description": "Self-Improving Language Models for Evolutionary Program Synthesis: A Case Study on ARC-AGI ICML paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -442,8 +442,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments arXiv paper code",
+              "title": "GAIR-NLP/DeepResearcher",
+              "description": "DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -457,8 +457,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents NeurIPS paper code",
+              "title": "Euphoria16/UI-Genie",
+              "description": "UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents NeurIPS paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -472,8 +472,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn Reinforcement Learning arXiv paper code",
+              "title": "mll-lab-nu/RAGEN",
+              "description": "RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn Reinforcement Learning arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -482,13 +482,13 @@
                 "last_commit": "2026-08-23T22:59:46Z",
                 "owner": "mll-lab-nu",
                 "repo": "RAGEN",
-                "stars": 2775
+                "stars": 2776
               }
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience arXiv paper code",
+              "title": "SunzeY/SEAgent",
+              "description": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -497,13 +497,13 @@
                 "last_commit": "2025-08-07T03:48:48Z",
                 "owner": "SunzeY",
                 "repo": "SEAgent",
-                "stars": 262
+                "stars": 263
               }
             },
             {
               "node_type": "item",
-              "title": "2026",
-              "description": "WebGym: Scaling Training Environments for Visual Web Agents with Realistic Tasks arXiv paper code",
+              "title": "microsoft/webgym",
+              "description": "WebGym: Scaling Training Environments for Visual Web Agents with Realistic Tasks arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -517,8 +517,8 @@
             },
             {
               "node_type": "item",
-              "title": "2026",
-              "description": "Tool-R0: Self-Evolving LLM Agents for Tool-Learning from Zero Data arXiv paper code",
+              "title": "emrecanacikgoz/Tool-R0",
+              "description": "Tool-R0: Self-Evolving LLM Agents for Tool-Learning from Zero Data arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -532,8 +532,8 @@
             },
             {
               "node_type": "item",
-              "title": "2026",
-              "description": "Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills arXiv paper code",
+              "title": "Qwen-Applications/skill-self-play",
+              "description": "Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -554,8 +554,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2023",
-              "description": "Language Models Meet World Models: Embodied Experiences Enhance Language Models NeurIPS paper code",
+              "title": "szxiangjn/world-model-for-language-model",
+              "description": "Language Models Meet World Models: Embodied Experiences Enhance Language Models NeurIPS paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -569,8 +569,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024",
-              "description": "Agent Planning with World Knowledge Model NeurIPS paper code",
+              "title": "zjunlp/WKM",
+              "description": "Agent Planning with World Knowledge Model NeurIPS paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -584,8 +584,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation ICLR paper code",
+              "title": "kyle8581/WMA-Agents",
+              "description": "Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation ICLR paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -599,8 +599,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "Understanding World or Predicting Future? A Comprehensive Survey of World Models ACM CSUR paper code",
+              "title": "tsinghua-fib-lab/World-Model",
+              "description": "Understanding World or Predicting Future? A Comprehensive Survey of World Models ACM CSUR paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -609,13 +609,13 @@
                 "last_commit": "2025-11-18T06:30:27Z",
                 "owner": "tsinghua-fib-lab",
                 "repo": "World-Model",
-                "stars": 827
+                "stars": 828
               }
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "WebEvolver: Enhancing Web Agent Self-Improvement with Coevolving World Model EMNLP paper code",
+              "title": "Tencent/SelfEvolvingAgent",
+              "description": "WebEvolver: Enhancing Web Agent Self-Improvement with Coevolving World Model EMNLP paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -629,8 +629,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "WebSynthesis: World-Model-Guided MCTS for Efficient WebUI-Trajectory Synthesis arXiv paper code",
+              "title": "LucusFigoGao/WebSynthesis",
+              "description": "WebSynthesis: World-Model-Guided MCTS for Efficient WebUI-Trajectory Synthesis arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -644,8 +644,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "WMPO: World Model-based Policy Optimization for Vision-Language-Action Models arXiv paper code",
+              "title": "WM-PO/WMPO",
+              "description": "WMPO: World Model-based Policy Optimization for Vision-Language-Action Models arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -659,8 +659,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "NavMorph: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments ICCV paper code",
+              "title": "Feliciaxyao/NavMorph",
+              "description": "NavMorph: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments ICCV paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -674,8 +674,8 @@
             },
             {
               "node_type": "item",
-              "title": "2026",
-              "description": "RISE: Self-Improving Robot Policy with Compositional World Model RSS paper code",
+              "title": "OpenDriveLab/RISE",
+              "description": "RISE: Self-Improving Robot Policy with Compositional World Model RSS paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -702,8 +702,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2022",
-              "description": "Large Language Models Are Human-Level Prompt Engineers arXiv paper code",
+              "title": "keirp/automatic_prompt_engineer",
+              "description": "Large Language Models Are Human-Level Prompt Engineers arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -717,8 +717,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024",
-              "description": "Large Language Models as Optimizers ICLR paper code",
+              "title": "google-deepmind/opro",
+              "description": "Large Language Models as Optimizers ICLR paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -732,8 +732,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024",
-              "description": "Prompt Refinement with Image Pivot for Text-to-Image Generation ACL paper code",
+              "title": "jingtaozhan/PromptReformulate",
+              "description": "Prompt Refinement with Image Pivot for Text-to-Image Generation ACL paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -747,8 +747,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024",
-              "description": "PRompt Optimization in Multi-Step Tasks (PROMST): Integrating Human Feedback and Heuristic-based Sampling EMNLP paper code",
+              "title": "yongchao98/PROMST",
+              "description": "PRompt Optimization in Multi-Step Tasks (PROMST): Integrating Human Feedback and Heuristic-based Sampling EMNLP paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -762,8 +762,8 @@
             },
             {
               "node_type": "item",
-              "title": "2026",
-              "description": "SePO: Self-Evolving Prompt Agent for System Prompt Optimization arXiv paper code",
+              "title": "taowangcheng/SePO",
+              "description": "SePO: Self-Evolving Prompt Agent for System Prompt Optimization arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -784,8 +784,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2023",
-              "description": "Self-Refine: Iterative Refinement with Self-Feedback arXiv paper code",
+              "title": "madaan/self-refine",
+              "description": "Self-Refine: Iterative Refinement with Self-Feedback arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -799,8 +799,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023",
-              "description": "Chain of Hindsight Aligns Language Models with Feedback arXiv paper code",
+              "title": "haoliuhl/chain-of-hindsight",
+              "description": "Chain of Hindsight Aligns Language Models with Feedback arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -814,8 +814,8 @@
             },
             {
               "node_type": "item",
-              "title": "2023",
-              "description": "Reflexion: Language Agents with Verbal Reinforcement Learning NeurIPS paper code",
+              "title": "noahshinn/reflexion",
+              "description": "Reflexion: Language Agents with Verbal Reinforcement Learning NeurIPS paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -829,8 +829,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024",
-              "description": "Prompt Optimization with Human Feedback ICML Workshop paper code",
+              "title": "xqlin98/APOHF",
+              "description": "Prompt Optimization with Human Feedback ICML Workshop paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -844,8 +844,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "CriSPO: Multi-Aspect Critique-Suggestion-guided Automatic Prompt Optimization for Text Generation AAAI paper code",
+              "title": "amazon-science/CriSPO",
+              "description": "CriSPO: Multi-Aspect Critique-Suggestion-guided Automatic Prompt Optimization for Text Generation AAAI paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -859,8 +859,8 @@
             },
             {
               "node_type": "item",
-              "title": "2026",
-              "description": "GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning ICLR paper code",
+              "title": "gepa-ai/gepa",
+              "description": "GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning ICLR paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -869,7 +869,7 @@
                 "last_commit": "2026-08-23T23:41:14Z",
                 "owner": "gepa-ai",
                 "repo": "gepa",
-                "stars": 6214
+                "stars": 6223
               }
             }
           ]
@@ -881,8 +881,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2024",
-              "description": "EvoPrompt: Connecting LLMs with Evolutionary Algorithms Yields Powerful Prompt Optimizers ICLR paper code",
+              "title": "beeevita/EvoPrompt",
+              "description": "EvoPrompt: Connecting LLMs with Evolutionary Algorithms Yields Powerful Prompt Optimizers ICLR paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -896,8 +896,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024",
-              "description": "WizardLM: Empowering large pre-trained language models to follow complex instructions ICLR paper code",
+              "title": "nlpxucan/WizardLM",
+              "description": "WizardLM: Empowering large pre-trained language models to follow complex instructions ICLR paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -906,13 +906,13 @@
                 "last_commit": "2025-06-07T01:35:05Z",
                 "owner": "nlpxucan",
                 "repo": "WizardLM",
-                "stars": 9484
+                "stars": 9483
               }
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "DelvePO: Direction-Guided Self-Evolving Framework for Flexible Prompt Optimization arXiv paper code",
+              "title": "PasaLab/DelvePO",
+              "description": "DelvePO: Direction-Guided Self-Evolving Framework for Flexible Prompt Optimization arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -926,8 +926,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "How to Auto-optimize Prompts for Domain Tasks? Adaptive Prompting and Reasoning through Evolutionary Domain Knowledge Adaptation NeurIPS paper code",
+              "title": "miemieyanga/EGO-Prompt",
+              "description": "How to Auto-optimize Prompts for Domain Tasks? Adaptive Prompting and Reasoning through Evolutionary Domain Knowledge Adaptation NeurIPS paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -948,8 +948,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2023",
-              "description": "Automatic Prompt Optimization with \"Gradient Descent\" and Beam Search EMNLP paper code",
+              "title": "microsoft/LMOps",
+              "description": "Automatic Prompt Optimization with \"Gradient Descent\" and Beam Search EMNLP paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -963,8 +963,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024",
-              "description": "How to Correctly do Semantic Backpropagation on Language-based Agentic Systems arXiv paper code",
+              "title": "HishamAlyahya/semantic_backprop",
+              "description": "How to Correctly do Semantic Backpropagation on Language-based Agentic Systems arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -978,8 +978,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024",
-              "description": "Trace is the Next AutoDiff: Generative Optimization with Rich Feedback, Execution Traces, and LLMs NeurIPS paper code",
+              "title": "microsoft/Trace",
+              "description": "Trace is the Next AutoDiff: Generative Optimization with Rich Feedback, Execution Traces, and LLMs NeurIPS paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -993,8 +993,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "TextGrad: Automatic \"Differentiation\" via Text Nature paper code",
+              "title": "zou-group/textgrad",
+              "description": "TextGrad: Automatic \"Differentiation\" via Text Nature paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1008,8 +1008,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "metaTextGrad: Automatically optimizing language model optimizers NeurIPS paper code",
+              "title": "zou-group/metatextgrad",
+              "description": "metaTextGrad: Automatically optimizing language model optimizers NeurIPS paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1023,8 +1023,8 @@
             },
             {
               "node_type": "item",
-              "title": "2026",
-              "description": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills arXiv paper code",
+              "title": "microsoft/SkillOpt",
+              "description": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1033,13 +1033,13 @@
                 "last_commit": "2026-08-23T07:02:47Z",
                 "owner": "microsoft",
                 "repo": "SkillOpt",
-                "stars": 16304
+                "stars": 16311
               }
             },
             {
               "node_type": "item",
-              "title": "2026",
-              "description": "Learning to Learn-at-Test-Time: Language Agents with Learnable Adaptation Policies arXiv paper code",
+              "title": "zzzlou/meta-ttl",
+              "description": "Learning to Learn-at-Test-Time: Language Agents with Learnable Adaptation Policies arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1066,8 +1066,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2024",
-              "description": "ExpeL: LLM Agents Are Experiential Learners AAAI paper code",
+              "title": "LeapLabTHU/ExpeL",
+              "description": "ExpeL: LLM Agents Are Experiential Learners AAAI paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1081,8 +1081,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024",
-              "description": "MEMORYLLM: Towards Self-Updatable Large Language Models ICML paper code",
+              "title": "wangyu-ustc/MemoryLLM",
+              "description": "MEMORYLLM: Towards Self-Updatable Large Language Models ICML paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1096,8 +1096,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "Agent Workflow Memory ICML paper code",
+              "title": "zorazrw/agent-workflow-memory",
+              "description": "Agent Workflow Memory ICML paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1111,8 +1111,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory arXiv paper code",
+              "title": "ByteDance-Seed/m3-agent",
+              "description": "Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1126,8 +1126,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "Dynamic Cheatsheet: Test-Time Learning with Adaptive Memory arXiv paper code",
+              "title": "suzgunmirac/dynamic-cheatsheet",
+              "description": "Dynamic Cheatsheet: Test-Time Learning with Adaptive Memory arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1141,8 +1141,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "MemGen: Weaving Generative Latent Memory for Self-Evolving Agents arXiv paper code",
+              "title": "bingreeky/MemGen",
+              "description": "MemGen: Weaving Generative Latent Memory for Self-Evolving Agents arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1156,8 +1156,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "M+: Extending MemoryLLM with Scalable Long-Term Memory arXiv paper code",
+              "title": "wangyu-ustc/MemoryLLM",
+              "description": "M+: Extending MemoryLLM with Scalable Long-Term Memory arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1171,8 +1171,8 @@
             },
             {
               "node_type": "item",
-              "title": "2026",
-              "description": "Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory ICLR paper code",
+              "title": "ByteDance-Seed/m3-agent",
+              "description": "Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory ICLR paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1186,14 +1186,14 @@
             },
             {
               "node_type": "item",
-              "title": "2026",
-              "description": "Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy arXiv paper code",
+              "title": "AutoResearch-Factory/Agon",
+              "description": "Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1273471983,
                 "language": "Python",
-                "last_commit": "2026-08-22T06:15:12Z",
+                "last_commit": "2026-08-24T21:21:53Z",
                 "owner": "AutoResearch-Factory",
                 "repo": "Agon",
                 "stars": 42
@@ -1208,8 +1208,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2022",
-              "description": "XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model ECCV paper code",
+              "title": "hkchengrex/XMem",
+              "description": "XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model ECCV paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1223,8 +1223,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024",
-              "description": "MemoryBank: Enhancing Large Language Models with Long-Term Memory arXiv paper code",
+              "title": "zhongwanjun/MemoryBank-SiliconFriend",
+              "description": "MemoryBank: Enhancing Large Language Models with Long-Term Memory arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1233,13 +1233,13 @@
                 "last_commit": "2023-05-24T03:19:27Z",
                 "owner": "zhongwanjun",
                 "repo": "MemoryBank-SiliconFriend",
-                "stars": 446
+                "stars": 447
               }
             },
             {
               "node_type": "item",
-              "title": "2024",
-              "description": "MovieChat: From Dense Token to Sparse Memory for Long Video Understanding CVPR paper code",
+              "title": "wenhaochai/MovieChat",
+              "description": "MovieChat: From Dense Token to Sparse Memory for Long Video Understanding CVPR paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1253,8 +1253,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024",
-              "description": "Explore, Select, Derive, and Recall: Augmenting LLM with Human-like Memory for Mobile Task Automation ACM MobiCom paper code",
+              "title": "mobilegptsys/MobileGPT",
+              "description": "Explore, Select, Derive, and Recall: Augmenting LLM with Human-like Memory for Mobile Task Automation ACM MobiCom paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1268,8 +1268,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "SCM: Enhancing Large Language Model with Self-Controlled Memory Framework DASFAA paper code",
+              "title": "wbbeyourself/SCM4LLMs",
+              "description": "SCM: Enhancing Large Language Model with Self-Controlled Memory Framework DASFAA paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1283,8 +1283,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems NeurIPS paper code",
+              "title": "bingreeky/GMemory",
+              "description": "G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems NeurIPS paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1298,8 +1298,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "CausalRAG: Integrating Causal Graphs into Retrieval-Augmented Generation ACL paper code",
+              "title": "Pwnb/CausalRAG",
+              "description": "CausalRAG: Integrating Causal Graphs into Retrieval-Augmented Generation ACL paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1313,8 +1313,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "From Knowledge to Noise: CTIM-Rover and the Pitfalls of Episodic Memory in Software Engineering Agents ACL Workshop paper code",
+              "title": "Liqs-v2/ctim-rover",
+              "description": "From Knowledge to Noise: CTIM-Rover and the Pitfalls of Episodic Memory in Software Engineering Agents ACL Workshop paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1328,8 +1328,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "MrSteve: Instruction-Following Agents in Minecraft with What-Where-When Memory ICLR paper code",
+              "title": "frechele/MrSteve",
+              "description": "MrSteve: Instruction-Following Agents in Minecraft with What-Where-When Memory ICLR paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1343,8 +1343,8 @@
             },
             {
               "node_type": "item",
-              "title": "2026",
-              "description": "EvolveMem: Self-Evolving Memory Architecture via AutoResearch for LLM Agents arXiv paper code",
+              "title": "aiming-lab/SimpleMem",
+              "description": "EvolveMem: Self-Evolving Memory Architecture via AutoResearch for LLM Agents arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1358,8 +1358,8 @@
             },
             {
               "node_type": "item",
-              "title": "2026",
-              "description": "CLAG: Adaptive Memory Organization via Agent-Driven Clustering for Small Language Model Agents ACL Findings paper code",
+              "title": "dmis-lab/CLAG",
+              "description": "CLAG: Adaptive Memory Organization via Agent-Driven Clustering for Small Language Model Agents ACL Findings paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1380,8 +1380,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2023",
-              "description": "Generative Agents: Interactive Simulacra of Human Behavior UIST paper code",
+              "title": "joonspk-research/generative_agents",
+              "description": "Generative Agents: Interactive Simulacra of Human Behavior UIST paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1390,13 +1390,13 @@
                 "last_commit": "2024-08-05T21:38:56Z",
                 "owner": "joonspk-research",
                 "repo": "generative_agents",
-                "stars": 21976
+                "stars": 21980
               }
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "SEDM: Scalable Self-Evolving Distributed Memory for Agents ICLR paper code",
+              "title": "beeevita/EvoPrompt",
+              "description": "SEDM: Scalable Self-Evolving Distributed Memory for Agents ICLR paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1410,8 +1410,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "MemGen: Weaving Generative Latent Memory for Self-Evolving Agents arXiv paper code",
+              "title": "bingreeky/MemGen",
+              "description": "MemGen: Weaving Generative Latent Memory for Self-Evolving Agents arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1425,8 +1425,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "A-MEM: Agentic Memory for LLM Agents NeurIPS paper code",
+              "title": "WujiangXu/A-mem-sys",
+              "description": "A-MEM: Agentic Memory for LLM Agents NeurIPS paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1440,8 +1440,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems arXiv paper code",
+              "title": "bingreeky/GMemory",
+              "description": "G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1455,8 +1455,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG arXiv paper code",
+              "title": "asinghcsu/AgenticRAG-Survey",
+              "description": "Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1470,8 +1470,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "Memory OS of AI Agent EMNLP paper code",
+              "title": "BAI-LAB/MemoryOS",
+              "description": "Memory OS of AI Agent EMNLP paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1485,8 +1485,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "SCM: Enhancing Large Language Model with Self-Controlled Memory Framework DASFAA paper code",
+              "title": "wbbeyourself/SCM4LLMs",
+              "description": "SCM: Enhancing Large Language Model with Self-Controlled Memory Framework DASFAA paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1500,8 +1500,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "Dynamic Cheatsheet: Test-Time Learning with Adaptive Memory arXiv paper code",
+              "title": "suzgunmirac/dynamic-cheatsheet",
+              "description": "Dynamic Cheatsheet: Test-Time Learning with Adaptive Memory arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1515,8 +1515,8 @@
             },
             {
               "node_type": "item",
-              "title": "2026",
-              "description": "ForeDreamer: A Self-Evolving Dual-Agent Memory Architecture for Future Event Prediction EMNLP Findings paper code",
+              "title": "zhongzero/ForeDreamer",
+              "description": "ForeDreamer: A Self-Evolving Dual-Agent Memory Architecture for Future Event Prediction EMNLP Findings paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1530,8 +1530,8 @@
             },
             {
               "node_type": "item",
-              "title": "2026",
-              "description": "Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models ICLR paper code",
+              "title": "ace-agent/ace",
+              "description": "Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models ICLR paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1545,8 +1545,8 @@
             },
             {
               "node_type": "item",
-              "title": "2026",
-              "description": "MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory arXiv paper code",
+              "title": "MemTensor/MemRL",
+              "description": "MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1560,8 +1560,8 @@
             },
             {
               "node_type": "item",
-              "title": "2026",
-              "description": "MemQ: Integrating Q-Learning into Self-Evolving Memory for LLM Agents arXiv paper code",
+              "title": "jwliao-ai/MemQ",
+              "description": "MemQ: Integrating Q-Learning into Self-Evolving Memory for LLM Agents arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1575,8 +1575,8 @@
             },
             {
               "node_type": "item",
-              "title": "2026",
-              "description": "AEL: Agent Evolving Learning for Open-Ended Environments arXiv paper code",
+              "title": "WujiangXu/AEL",
+              "description": "AEL: Agent Evolving Learning for Open-Ended Environments arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1590,8 +1590,8 @@
             },
             {
               "node_type": "item",
-              "title": "2026",
-              "description": "Mem^2Evolve: Towards Self-Evolving Agents via Co-Evolutionary Capability Expansion and Experience Distillation arXiv paper code",
+              "title": "BUAA-IRIP-LLM/Mem2Evolve",
+              "description": "Mem^2Evolve: Towards Self-Evolving Agents via Co-Evolutionary Capability Expansion and Experience Distillation arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1618,8 +1618,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2023",
-              "description": "Voyager: An Open-Ended Embodied Agent with Large Language Models arXiv paper code",
+              "title": "MineDojo/Voyager",
+              "description": "Voyager: An Open-Ended Embodied Agent with Large Language Models arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1628,13 +1628,13 @@
                 "last_commit": "2024-04-03T18:51:36Z",
                 "owner": "MineDojo",
                 "repo": "Voyager",
-                "stars": 7157
+                "stars": 7156
               }
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "MetaAgent: Toward Self-Evolving Agent via Tool Meta-Learning arXiv paper code",
+              "title": "qhjqhj00/MetaAgent",
+              "description": "MetaAgent: Toward Self-Evolving Agent via Tool Meta-Learning arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1643,13 +1643,13 @@
                 "last_commit": "2025-09-03T09:13:43Z",
                 "owner": "qhjqhj00",
                 "repo": "MetaAgent",
-                "stars": 48
+                "stars": 49
               }
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "AutoTIR: Autonomous Tools Integrated Reasoning via Reinforcement Learning arXiv paper code",
+              "title": "weiyifan1023/AutoTIR",
+              "description": "AutoTIR: Autonomous Tools Integrated Reasoning via Reinforcement Learning arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1663,8 +1663,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "MCP-Flow: Facilitating LLM Agents to Master Real-World, Diverse and Scaling MCP Tools arXiv paper code",
+              "title": "wwh0411/MCP-Flow",
+              "description": "MCP-Flow: Facilitating LLM Agents to Master Real-World, Diverse and Scaling MCP Tools arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1678,8 +1678,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "In-the-Flow Agentic System Optimization for Effective Planning and Tool Use NeurIPS paper code",
+              "title": "lupantech/AgentFlow",
+              "description": "In-the-Flow Agentic System Optimization for Effective Planning and Tool Use NeurIPS paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1693,8 +1693,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "MassTool: A Multi-Task Search-Based Tool Retrieval Framework for Large Language Models arXiv paper code",
+              "title": "wxydada/MassTool",
+              "description": "MassTool: A Multi-Task Search-Based Tool Retrieval Framework for Large Language Models arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1708,8 +1708,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "Iterative Tool Usage Exploration for Multimodal Agents via Step-wise Preference Tuning NeurIPS paper code",
+              "title": "SPORT-Agents/SPORT-Agents",
+              "description": "Iterative Tool Usage Exploration for Multimodal Agents via Step-wise Preference Tuning NeurIPS paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1723,8 +1723,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning arXiv paper code",
+              "title": "RUC-NLPIR/Tool-Star",
+              "description": "Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1738,8 +1738,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "MCP-Zero: Active Tool Discovery for Autonomous LLM Agents arXiv paper code",
+              "title": "xfey/MCP-Zero",
+              "description": "MCP-Zero: Active Tool Discovery for Autonomous LLM Agents arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1753,8 +1753,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "Tool-Planner: Task Planning with Clusters across Multiple Tools ICLR paper code",
+              "title": "OceannTwT/Tool-Planner",
+              "description": "Tool-Planner: Task Planning with Clusters across Multiple Tools ICLR paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1768,8 +1768,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "ToolGen: Unified Tool Retrieval and Calling via Generation ICLR paper code",
+              "title": "Reason-Wang/ToolGen",
+              "description": "ToolGen: Unified Tool Retrieval and Calling via Generation ICLR paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1783,8 +1783,8 @@
             },
             {
               "node_type": "item",
-              "title": "2026",
-              "description": "DeepAgent: A General Reasoning Agent with Scalable Toolsets WWW paper code",
+              "title": "RUC-NLPIR/DeepAgent",
+              "description": "DeepAgent: A General Reasoning Agent with Scalable Toolsets WWW paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1798,8 +1798,8 @@
             },
             {
               "node_type": "item",
-              "title": "2026",
-              "description": "DeepEyesV2: Toward Agentic Multimodal Model ICLR paper code",
+              "title": "Visual-Agent/DeepEyesV2",
+              "description": "DeepEyesV2: Toward Agentic Multimodal Model ICLR paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1813,8 +1813,8 @@
             },
             {
               "node_type": "item",
-              "title": "2026",
-              "description": "In-the-Flow Agentic System Optimization for Effective Planning and Tool Use ICLR paper code",
+              "title": "lupantech/AgentFlow",
+              "description": "In-the-Flow Agentic System Optimization for Effective Planning and Tool Use ICLR paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1828,23 +1828,23 @@
             },
             {
               "node_type": "item",
-              "title": "2026",
-              "description": "GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization arXiv paper code",
+              "title": "lsdefine/GenericAgent",
+              "description": "GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1135791677,
                 "language": "Python",
-                "last_commit": "2026-08-24T05:09:38Z",
+                "last_commit": "2026-08-25T03:36:41Z",
                 "owner": "lsdefine",
                 "repo": "GenericAgent",
-                "stars": 14016
+                "stars": 14025
               }
             },
             {
               "node_type": "item",
-              "title": "2026",
-              "description": "ANDES: Agent Native Data Evolving Synthesis Tool for Autonomous Instruction Alignment arXiv paper code",
+              "title": "zzy1127/ANDES",
+              "description": "ANDES: Agent Native Data Evolving Synthesis Tool for Autonomous Instruction Alignment arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1865,8 +1865,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2023",
-              "description": "Voyager: An Open-Ended Embodied Agent with Large Language Models arXiv paper code",
+              "title": "MineDojo/Voyager",
+              "description": "Voyager: An Open-Ended Embodied Agent with Large Language Models arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1875,13 +1875,13 @@
                 "last_commit": "2024-04-03T18:51:36Z",
                 "owner": "MineDojo",
                 "repo": "Voyager",
-                "stars": 7157
+                "stars": 7156
               }
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "STELLA: Self-Evolving LLM Agent for Biomedical Research arXiv paper code",
+              "title": "zaixizhang/STELLA",
+              "description": "STELLA: Self-Evolving LLM Agent for Biomedical Research arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1895,8 +1895,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "SkillWeaver: Web Agents can Self-Improve by Discovering and Honing Skills arXiv paper code",
+              "title": "OSU-NLP-Group/SkillWeaver",
+              "description": "SkillWeaver: Web Agents can Self-Improve by Discovering and Honing Skills arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1910,8 +1910,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "PyVision: Agentic Vision with Dynamic Tooling arXiv paper code",
+              "title": "agents-x-project/PyVision",
+              "description": "PyVision: Agentic Vision with Dynamic Tooling arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1925,8 +1925,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions ICLR paper code",
+              "title": "quchangle1/DRAFT",
+              "description": "From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions ICLR paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1940,8 +1940,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "LLMLOOP: Improving LLM-Generated Code and Tests Through Automated Iterative Feedback Loops ICSME paper code",
+              "title": "ravinravi03/LLMLOOP",
+              "description": "LLMLOOP: Improving LLM-Generated Code and Tests Through Automated Iterative Feedback Loops ICSME paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1955,8 +1955,8 @@
             },
             {
               "node_type": "item",
-              "title": "2026",
-              "description": "RewardHarness: Self-Evolving Agentic Post-Training arXiv paper code",
+              "title": "TIGER-AI-Lab/RewardHarness",
+              "description": "RewardHarness: Self-Evolving Agentic Post-Training arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1977,8 +1977,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2023",
-              "description": "Voyager: An Open-Ended Embodied Agent with Large Language Models arXiv paper code",
+              "title": "MineDojo/Voyager",
+              "description": "Voyager: An Open-Ended Embodied Agent with Large Language Models arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1987,13 +1987,13 @@
                 "last_commit": "2024-04-03T18:51:36Z",
                 "owner": "MineDojo",
                 "repo": "Voyager",
-                "stars": 7157
+                "stars": 7156
               }
             },
             {
               "node_type": "item",
-              "title": "2024",
-              "description": "Large Language Models as Tool Makers arXiv paper code",
+              "title": "ctlllll/LLM-ToolMaker",
+              "description": "Large Language Models as Tool Makers arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2007,8 +2007,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024",
-              "description": "OS-Copilot: Towards Generalist Computer Agents with Self-Improvement ICLR paper code",
+              "title": "OS-Copilot/OS-Copilot",
+              "description": "OS-Copilot: Towards Generalist Computer Agents with Self-Improvement ICLR paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2022,8 +2022,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution arXiv paper code",
+              "title": "CharlesQ9/Alita",
+              "description": "Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2037,8 +2037,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "LLM Agents Making Agent Tools ACL paper code",
+              "title": "KatherLab/ToolMaker",
+              "description": "LLM Agents Making Agent Tools ACL paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2052,8 +2052,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "Code2MCP: Transforming Code Repositories into MCP Services arXiv paper code",
+              "title": "DEFENSE-SEU/Code2MCP",
+              "description": "Code2MCP: Transforming Code Repositories into MCP Services arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2067,8 +2067,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "STELLA: Self-Evolving LLM Agent for Biomedical Research arXiv paper code",
+              "title": "zaixizhang/STELLA",
+              "description": "STELLA: Self-Evolving LLM Agent for Biomedical Research arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2082,8 +2082,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "PyVision: Agentic Vision with Dynamic Tooling arXiv paper code",
+              "title": "agents-x-project/PyVision",
+              "description": "PyVision: Agentic Vision with Dynamic Tooling arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2097,8 +2097,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "Enhancing Open-Domain Task-Solving Capability of LLMs via Autonomous Tool Integration from GitHub ACL paper code",
+              "title": "OpenBMB/OpenAct",
+              "description": "Enhancing Open-Domain Task-Solving Capability of LLMs via Autonomous Tool Integration from GitHub ACL paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2112,8 +2112,8 @@
             },
             {
               "node_type": "item",
-              "title": "2026",
-              "description": "OpenSkill: Open-World Self-Evolution for LLM Agents arXiv paper code",
+              "title": "OpenLAIR/OpenSkill",
+              "description": "OpenSkill: Open-World Self-Evolution for LLM Agents arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2127,8 +2127,8 @@
             },
             {
               "node_type": "item",
-              "title": "2026",
-              "description": "EvoDS: Self-Evolving Autonomous Data Science Agent with Skill Learning and Context Management arXiv paper code",
+              "title": "usail-hkust/EvoDS",
+              "description": "EvoDS: Self-Evolving Autonomous Data Science Agent with Skill Learning and Context Management arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2142,8 +2142,8 @@
             },
             {
               "node_type": "item",
-              "title": "2026",
-              "description": "CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification arXiv paper code",
+              "title": "Zhang-Henry/CoEvoSkills",
+              "description": "CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2152,7 +2152,7 @@
                 "last_commit": "2026-08-20T18:58:51Z",
                 "owner": "Zhang-Henry",
                 "repo": "CoEvoSkills",
-                "stars": 60
+                "stars": 61
               }
             }
           ]
@@ -2165,8 +2165,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "Language Agents as Optimizable Graphs ICML paper code",
+          "title": "metauto-ai/GPTSwarm",
+          "description": "Language Agents as Optimizable Graphs ICML paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2180,8 +2180,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "Self-Taught Optimizer (STOP): Recursively Self-Improving Code Generation COLM paper code",
+          "title": "microsoft/stop",
+          "description": "Self-Taught Optimizer (STOP): Recursively Self-Improving Code Generation COLM paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2195,8 +2195,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "Automated Design of Agentic Systems NeurIPS paper code",
+          "title": "ShengranHu/ADAS",
+          "description": "Automated Design of Agentic Systems NeurIPS paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2210,8 +2210,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "Symbolic Learning Enables Self-Evolving Agents arXiv paper code",
+          "title": "aiwaves-cn/agents",
+          "description": "Symbolic Learning Enables Self-Evolving Agents arXiv paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2225,8 +2225,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents arXiv paper code",
+          "title": "jennyzzt/dgm",
+          "description": "Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents arXiv paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2235,13 +2235,13 @@
             "last_commit": "2025-08-13T10:40:14Z",
             "owner": "jennyzzt",
             "repo": "dgm",
-            "stars": 2247
+            "stars": 2248
           }
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "Huxley-Gödel Machine: Human-Level Coding Agent Development by an Approximation of the Optimal Self-Improving Machine arXiv paper code",
+          "title": "metauto-ai/HGM",
+          "description": "Huxley-Gödel Machine: Human-Level Coding Agent Development by an Approximation of the Optimal Self-Improving Machine arXiv paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2250,13 +2250,13 @@
             "last_commit": "2026-02-07T21:30:42Z",
             "owner": "metauto-ai",
             "repo": "HGM",
-            "stars": 417
+            "stars": 418
           }
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "Gödel Agent: A Self-Referential Agent Framework for Recursive Self-Improvement ACL paper code",
+          "title": "Arvid-pku/Godel_Agent",
+          "description": "Gödel Agent: A Self-Referential Agent Framework for Recursive Self-Improvement ACL paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2270,8 +2270,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "ShinkaEvolve: Towards Open-Ended And Sample-Efficient Program Evolution arXiv paper code",
+          "title": "SakanaAI/ShinkaEvolve",
+          "description": "ShinkaEvolve: Towards Open-Ended And Sample-Efficient Program Evolution arXiv paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2285,8 +2285,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly? arXiv paper code",
+          "title": "OpenAutoCoder/live-swe-agent",
+          "description": "Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly? arXiv paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2300,8 +2300,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026",
-          "description": "RoboPhD: Self-Improving Text-to-SQL Through Autonomous Agent Evolution arXiv paper code",
+          "title": "andborth/RoboPhD",
+          "description": "RoboPhD: Self-Improving Text-to-SQL Through Autonomous Agent Evolution arXiv paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2315,8 +2315,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026",
-          "description": "Hyperagents arXiv paper code",
+          "title": "facebookresearch/HyperAgents",
+          "description": "Hyperagents arXiv paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2330,8 +2330,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026",
-          "description": "CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery COLM paper code",
+          "title": "Human-Agent-Society/CORAL",
+          "description": "CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery COLM paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2340,13 +2340,13 @@
             "last_commit": "2026-08-23T02:42:55Z",
             "owner": "Human-Agent-Society",
             "repo": "CORAL",
-            "stars": 918
+            "stars": 920
           }
         },
         {
           "node_type": "item",
-          "title": "2026",
-          "description": "Adaptive Auto-Harness: Sustained Self-Improvement for Agentic System Deployment on Open-Ended Task Streams arXiv paper code",
+          "title": "A-EVO-Lab/AdaptiveHarness",
+          "description": "Adaptive Auto-Harness: Sustained Self-Improvement for Agentic System Deployment on Open-Ended Task Streams arXiv paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2360,8 +2360,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026",
-          "description": "Continual Harness: Online Adaptation for Self-Improving Foundation Agents arXiv paper code",
+          "title": "sethkarten/continual-harness",
+          "description": "Continual Harness: Online Adaptation for Self-Improving Foundation Agents arXiv paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2375,23 +2375,23 @@
         },
         {
           "node_type": "item",
-          "title": "2026",
-          "description": "Argus: A General-Purpose Agentic Reasoning Runtime for Long-Horizon Tasks arXiv paper code",
+          "title": "lbx154/Argus",
+          "description": "Argus: A General-Purpose Agentic Reasoning Runtime for Long-Horizon Tasks arXiv paper",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1324263473,
             "language": "Python",
-            "last_commit": "2026-08-24T19:01:25Z",
+            "last_commit": "2026-08-25T06:19:51Z",
             "owner": "lbx154",
             "repo": "Argus",
-            "stars": 281
+            "stars": 283
           }
         },
         {
           "node_type": "item",
-          "title": "2026",
-          "description": "Harness-R1: Learning to Edit Executable Runtime Harnesses from Agent Failure Trajectories arXiv paper code",
+          "title": "DeepExperience/Harness-R1",
+          "description": "Harness-R1: Learning to Edit Executable Runtime Harnesses from Agent Failure Trajectories arXiv paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2400,13 +2400,13 @@
             "last_commit": "2026-08-05T11:40:05Z",
             "owner": "DeepExperience",
             "repo": "Harness-R1",
-            "stars": 82
+            "stars": 83
           }
         },
         {
           "node_type": "item",
-          "title": "2026",
-          "description": "LLM-as-Code: Agentic Programming for Agent Harness KDD AgenticSE Workshop paper code",
+          "title": "Fzkuji/OpenProgram",
+          "description": "LLM-as-Code: Agentic Programming for Agent Harness KDD AgenticSE Workshop paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2415,28 +2415,28 @@
             "last_commit": "2026-08-24T14:12:33Z",
             "owner": "Fzkuji",
             "repo": "OpenProgram",
-            "stars": 245
+            "stars": 251
           }
         },
         {
           "node_type": "item",
-          "title": "2026",
-          "description": "Ouroboros: A Self-Developing Frontier Coding Agent with Reviewed Core Evolution arXiv paper code",
+          "title": "razzant/ouroboros",
+          "description": "Ouroboros: A Self-Developing Frontier Coding Agent with Reviewed Core Evolution arXiv paper",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1155766506,
             "language": "Python",
-            "last_commit": "2026-08-24T18:43:09Z",
+            "last_commit": "2026-08-25T05:54:25Z",
             "owner": "razzant",
             "repo": "ouroboros",
-            "stars": 1220
+            "stars": 1223
           }
         },
         {
           "node_type": "item",
-          "title": "2026",
-          "description": "Harness Handbook: Making Evolving Agent Harnesses Readable, Navigable, and Editable arXiv paper code",
+          "title": "Ruhan-Wang/Harness_Handbook",
+          "description": "Harness Handbook: Making Evolving Agent Harnesses Readable, Navigable, and Editable arXiv paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2456,8 +2456,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "Mind2Web: Towards a Generalist Agent for the Web NeurIPS paper code",
+          "title": "OSU-NLP-Group/Mind2Web",
+          "description": "Mind2Web: Towards a Generalist Agent for the Web NeurIPS paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2471,8 +2471,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "ManiSkill2: A Unified Benchmark for Generalizable Manipulation Skills ICLR paper code",
+          "title": "mani-skill/ManiSkill",
+          "description": "ManiSkill2: A Unified Benchmark for Generalizable Manipulation Skills ICLR paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2481,13 +2481,13 @@
             "last_commit": "2026-08-04T16:38:18Z",
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3257
+            "stars": 3258
           }
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "CORE-Bench: Fostering the Credibility of Published Research Through a Computational Reproducibility Agent Benchmark TMLR paper code",
+          "title": "siegelz/core-bench",
+          "description": "CORE-Bench: Fostering the Credibility of Published Research Through a Computational Reproducibility Agent Benchmark TMLR paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2501,8 +2501,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "WebLINX: Real-World Website Navigation with Multi-Turn Dialogue ICML paper code",
+          "title": "McGill-NLP/weblinx",
+          "description": "WebLINX: Real-World Website Navigation with Multi-Turn Dialogue ICML paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2516,8 +2516,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "MINT: Evaluating LLMs in Multi-Turn Interaction with Tools and Language Feedback ICLR paper code",
+          "title": "xingyaoww/mint-bench",
+          "description": "MINT: Evaluating LLMs in Multi-Turn Interaction with Tools and Language Feedback ICLR paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2526,13 +2526,13 @@
             "last_commit": "2024-06-04T04:01:10Z",
             "owner": "xingyaoww",
             "repo": "mint-bench",
-            "stars": 142
+            "stars": 143
           }
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks? ICML paper code",
+          "title": "ServiceNow/WorkArena",
+          "description": "WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks? ICML paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2546,8 +2546,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "AgentGym: Evolving Large Language Model-Based Agents across Diverse Environments ACL paper code",
+          "title": "WooooDyy/AgentGym",
+          "description": "AgentGym: Evolving Large Language Model-Based Agents across Diverse Environments ACL paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2561,8 +2561,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "GitTaskBench: A Benchmark for Code Agents Solving Real-World Tasks Through Code Repository Leveraging arXiv paper code",
+          "title": "QuantaAlpha/GitTaskBench",
+          "description": "GitTaskBench: A Benchmark for Code Agents Solving Real-World Tasks Through Code Repository Leveraging arXiv paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2576,8 +2576,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents arXiv paper code",
+          "title": "shengyin1224/SafeAgentBench",
+          "description": "SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents arXiv paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2591,8 +2591,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026",
-          "description": "ST-WebAgentBench: A Benchmark for Evaluating Safety and Trustworthiness in Web Agents ICLR paper code",
+          "title": "segev-shlomov/ST-WebAgentBench",
+          "description": "ST-WebAgentBench: A Benchmark for Evaluating Safety and Trustworthiness in Web Agents ICLR paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2606,8 +2606,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026",
-          "description": "ClawBench: A Benchmark for Evaluating AI Agents on Real-World Online Tasks arXiv paper code",
+          "title": "TIGER-AI-Lab/ClawBench",
+          "description": "ClawBench: A Benchmark for Evaluating AI Agents on Real-World Online Tasks arXiv paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2616,7 +2616,7 @@
             "last_commit": "2026-08-22T20:48:02Z",
             "owner": "TIGER-AI-Lab",
             "repo": "ClawBench",
-            "stars": 584
+            "stars": 585
           }
         }
       ],
@@ -2627,8 +2627,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "Agent-as-a-Judge: Evaluate Agents with Agents ICML paper code",
+          "title": "metauto-ai/agent-as-a-judge",
+          "description": "Agent-as-a-Judge: Evaluate Agents with Agents ICML paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2637,13 +2637,13 @@
             "last_commit": "2026-03-28T08:23:53Z",
             "owner": "metauto-ai",
             "repo": "agent-as-a-judge",
-            "stars": 819
+            "stars": 820
           }
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "Evaluation Agent: Efficient and Promptable Evaluation Framework for Visual Generative Models ACL paper code",
+          "title": "Vchitect/Evaluation-Agent",
+          "description": "Evaluation Agent: Efficient and Promptable Evaluation Framework for Visual Generative Models ACL paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2657,8 +2657,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "EvalAgent: Discovering Implicit Evaluation Criteria from the Web COLM paper code",
+          "title": "ManyaWadhwa/EvalAgent",
+          "description": "EvalAgent: Discovering Implicit Evaluation Criteria from the Web COLM paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2672,8 +2672,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "VerifiAgent: A Unified Verification Agent in Language Model Reasoning EMNLP Findings paper code",
+          "title": "Jiuzhouh/VerifiAgent",
+          "description": "VerifiAgent: A Unified Verification Agent in Language Model Reasoning EMNLP Findings paper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2695,8 +2695,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2024",
-              "description": "Identifying the Risks of LM Agents with an LM-Emulated Sandbox ICLR paper code",
+              "title": "ryoungj/ToolEmu",
+              "description": "Identifying the Risks of LM Agents with an LM-Emulated Sandbox ICLR paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2710,8 +2710,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "GitTaskBench: A Benchmark for Code Agents Solving Real-World Tasks Through Code Repository Leveraging arXiv paper code",
+              "title": "QuantaAlpha/GitTaskBench",
+              "description": "GitTaskBench: A Benchmark for Code Agents Solving Real-World Tasks Through Code Repository Leveraging arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2732,8 +2732,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2024",
-              "description": "MINT: Evaluating LLMs in Multi-Turn Interaction with Tools and Language Feedback ICLR paper code",
+              "title": "xingyaoww/mint-bench",
+              "description": "MINT: Evaluating LLMs in Multi-Turn Interaction with Tools and Language Feedback ICLR paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2742,13 +2742,13 @@
                 "last_commit": "2024-06-04T04:01:10Z",
                 "owner": "xingyaoww",
                 "repo": "mint-bench",
-                "stars": 142
+                "stars": 143
               }
             },
             {
               "node_type": "item",
-              "title": "2024",
-              "description": "TaskBench: Benchmarking Large Language Models for Task Automation NeurIPS paper code",
+              "title": "microsoft/JARVIS",
+              "description": "TaskBench: Benchmarking Large Language Models for Task Automation NeurIPS paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2762,8 +2762,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024",
-              "description": "MetaTool Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use ICLR paper code",
+              "title": "HowieHwong/MetaTool",
+              "description": "MetaTool Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use ICLR paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2777,8 +2777,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "The Berkeley Function Calling Leaderboard (BFCL): From Tool Use to Agentic Evaluation of Large Language Models ICML paper code",
+              "title": "ShishirPatil/gorilla",
+              "description": "The Berkeley Function Calling Leaderboard (BFCL): From Tool Use to Agentic Evaluation of Large Language Models ICML paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2792,8 +2792,8 @@
             },
             {
               "node_type": "item",
-              "title": "2026",
-              "description": "RSI-Bench: Multi-Axis Benchmark for Recursive Self-Improvement GitHub N/A code",
+              "title": "sunghunkwag/rsi-bench",
+              "description": "RSI-Bench: Multi-Axis Benchmark for Recursive Self-Improvement GitHub N/A",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2820,8 +2820,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2024",
-              "description": "SWE-bench: Can Language Models Resolve Real-World GitHub Issues? ICLR paper code",
+              "title": "SWE-bench/SWE-bench",
+              "description": "SWE-bench: Can Language Models Resolve Real-World GitHub Issues? ICLR paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2830,13 +2830,13 @@
                 "last_commit": "2026-08-18T23:53:40Z",
                 "owner": "SWE-bench",
                 "repo": "SWE-bench",
-                "stars": 5700
+                "stars": 5701
               }
             },
             {
               "node_type": "item",
-              "title": "2024",
-              "description": "SWT-Bench: Testing and Validating Real-World Bug-Fixes with Code Agents NeurIPS paper code",
+              "title": "logic-star-ai/swt-bench",
+              "description": "SWT-Bench: Testing and Validating Real-World Bug-Fixes with Code Agents NeurIPS paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2850,8 +2850,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024",
-              "description": "TDD-Bench Verified: Can LLMs Generate Tests for Issues Before They Get Resolved? arXiv paper code",
+              "title": "IBM/TDD-Bench-Verified",
+              "description": "TDD-Bench Verified: Can LLMs Generate Tests for Issues Before They Get Resolved? arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2865,8 +2865,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "LoCoBench-Agent: An Interactive Benchmark for LLM Agents in Long-Context Software Engineering arXiv paper code",
+              "title": "SalesforceAIResearch/LoCoBench-Agent",
+              "description": "LoCoBench-Agent: An Interactive Benchmark for LLM Agents in Long-Context Software Engineering arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2880,8 +2880,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "DevAI: Automated AI Development Benchmark ICML paper code",
+              "title": "metauto-ai/agent-as-a-judge",
+              "description": "DevAI: Automated AI Development Benchmark ICML paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2890,7 +2890,7 @@
                 "last_commit": "2026-03-28T08:23:53Z",
                 "owner": "metauto-ai",
                 "repo": "agent-as-a-judge",
-                "stars": 819
+                "stars": 820
               }
             }
           ],
@@ -2902,8 +2902,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2023",
-              "description": "Mind2Web: Towards a Generalist Agent for the Web NeurIPS paper code",
+              "title": "OSU-NLP-Group/Mind2Web",
+              "description": "Mind2Web: Towards a Generalist Agent for the Web NeurIPS paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2917,8 +2917,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024",
-              "description": "WebArena: A Realistic Web Environment for Building Autonomous Agents ICLR paper code",
+              "title": "web-arena-x/webarena",
+              "description": "WebArena: A Realistic Web Environment for Building Autonomous Agents ICLR paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2927,13 +2927,13 @@
                 "last_commit": "2025-11-26T21:16:00Z",
                 "owner": "web-arena-x",
                 "repo": "webarena",
-                "stars": 1586
+                "stars": 1587
               }
             },
             {
               "node_type": "item",
-              "title": "2024",
-              "description": "VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks ICLR Workshop paper code",
+              "title": "web-arena-x/visualwebarena",
+              "description": "VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks ICLR Workshop paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2947,8 +2947,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024",
-              "description": "WebCanvas: Benchmarking Web Agents in Online Environments ICML Workshop paper code",
+              "title": "iMeanAI/WebCanvas",
+              "description": "WebCanvas: Benchmarking Web Agents in Online Environments ICML Workshop paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2962,8 +2962,8 @@
             },
             {
               "node_type": "item",
-              "title": "2026",
-              "description": "ST-WebAgentBench: A Benchmark for Evaluating Safety and Trustworthiness in Web Agents ICLR paper code",
+              "title": "segev-shlomov/ST-WebAgentBench",
+              "description": "ST-WebAgentBench: A Benchmark for Evaluating Safety and Trustworthiness in Web Agents ICLR paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2984,8 +2984,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2023",
-              "description": "clembench: Using Game Play to Evaluate Chat-Optimized Language Models as Conversational Agents EMNLP paper code",
+              "title": "clp-research/clembench",
+              "description": "clembench: Using Game Play to Evaluate Chat-Optimized Language Models as Conversational Agents EMNLP paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2999,8 +2999,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024",
-              "description": "clembench-2024: A Challenging, Dynamic, Complementary, Multilingual Benchmark and Underlying Flexible Framework for LLMs as Multi-Action Agents arXiv paper code",
+              "title": "clp-research/clembench",
+              "description": "clembench-2024: A Challenging, Dynamic, Complementary, Multilingual Benchmark and Underlying Flexible Framework for LLMs as Multi-Action Agents arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3014,8 +3014,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024",
-              "description": "GameBench: Evaluating Strategic Reasoning Abilities of LLM Agents NeurIPS Workshop paper code",
+              "title": "Joshuaclymer/GameBench",
+              "description": "GameBench: Evaluating Strategic Reasoning Abilities of LLM Agents NeurIPS Workshop paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3029,8 +3029,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024",
-              "description": "GTBench: Uncovering the Strategic Reasoning Capabilities of LLMs via Game-Theoretic Evaluations NeurIPS paper code",
+              "title": "jinhaoduan/GTBench",
+              "description": "GTBench: Uncovering the Strategic Reasoning Capabilities of LLMs via Game-Theoretic Evaluations NeurIPS paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3051,8 +3051,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2024",
-              "description": "CORE-Bench: Fostering the Credibility of Published Research Through a Computational Reproducibility Agent Benchmark TMLR paper code",
+              "title": "siegelz/core-bench",
+              "description": "CORE-Bench: Fostering the Credibility of Published Research Through a Computational Reproducibility Agent Benchmark TMLR paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3066,8 +3066,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024",
-              "description": "DiscoveryWorld: A Virtual Environment for Developing and Evaluating Automated Scientific Discovery Agents NeurIPS Datasets & Benchmarks paper code",
+              "title": "allenai/discoveryworld",
+              "description": "DiscoveryWorld: A Virtual Environment for Developing and Evaluating Automated Scientific Discovery Agents NeurIPS Datasets & Benchmarks paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3081,8 +3081,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "PaperBench: Evaluating AI's Ability to Replicate AI Research arXiv paper code",
+              "title": "openai/frontier-evals",
+              "description": "PaperBench: Evaluating AI's Ability to Replicate AI Research arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3096,8 +3096,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "PhysGym: Benchmarking LLMs in Interactive Physics Discovery with Controlled Priors NeurIPS Datasets & Benchmarks paper code",
+              "title": "principia-ai/PhysGym",
+              "description": "PhysGym: Benchmarking LLMs in Interactive Physics Discovery with Controlled Priors NeurIPS Datasets & Benchmarks paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3111,8 +3111,8 @@
             },
             {
               "node_type": "item",
-              "title": "2026",
-              "description": "AstaBench: Rigorous Benchmarking of AI Agents with a Scientific Research Suite ICLR paper code",
+              "title": "allenai/asta-bench",
+              "description": "AstaBench: Rigorous Benchmarking of AI Agents with a Scientific Research Suite ICLR paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3126,8 +3126,8 @@
             },
             {
               "node_type": "item",
-              "title": "2026",
-              "description": "MLS-Bench: A Holistic and Rigorous Assessment of AI Systems on Building Better AI arXiv paper code",
+              "title": "Imbernoulli/MLS-Bench",
+              "description": "MLS-Bench: A Holistic and Rigorous Assessment of AI Systems on Building Better AI arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3148,8 +3148,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2023",
-              "description": "ManiSkill2: A Unified Benchmark for Generalizable Manipulation Skills ICLR paper code",
+              "title": "mani-skill/ManiSkill",
+              "description": "ManiSkill2: A Unified Benchmark for Generalizable Manipulation Skills ICLR paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3158,13 +3158,13 @@
                 "last_commit": "2026-08-04T16:38:18Z",
                 "owner": "mani-skill",
                 "repo": "ManiSkill",
-                "stars": 3257
+                "stars": 3258
               }
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents arXiv paper code",
+              "title": "shengyin1224/SafeAgentBench",
+              "description": "SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents arXiv paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3178,8 +3178,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "EmbodiedBench: Comprehensive Benchmarking Multi-Modal Large Language Models for Vision-Driven Embodied Agents ICML paper code",
+              "title": "EmbodiedBench/EmbodiedBench",
+              "description": "EmbodiedBench: Comprehensive Benchmarking Multi-Modal Large Language Models for Vision-Driven Embodied Agents ICML paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3200,8 +3200,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2024",
-              "description": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments NeurIPS paper code",
+              "title": "xlang-ai/OSWorld",
+              "description": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments NeurIPS paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3210,13 +3210,13 @@
                 "last_commit": "2026-08-21T09:11:07Z",
                 "owner": "xlang-ai",
                 "repo": "OSWorld",
-                "stars": 3103
+                "stars": 3106
               }
             },
             {
               "node_type": "item",
-              "title": "2024",
-              "description": "AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents ACL paper code",
+              "title": "StonyBrookNLP/appworld",
+              "description": "AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents ACL paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3230,8 +3230,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024",
-              "description": "Identifying the Risks of LM Agents with an LM-Emulated Sandbox ICLR paper code",
+              "title": "ryoungj/ToolEmu",
+              "description": "Identifying the Risks of LM Agents with an LM-Emulated Sandbox ICLR paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3245,8 +3245,8 @@
             },
             {
               "node_type": "item",
-              "title": "2024",
-              "description": "MetaTool Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use ICLR paper code",
+              "title": "HowieHwong/MetaTool",
+              "description": "MetaTool Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use ICLR paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3260,8 +3260,8 @@
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale ICML paper code",
+              "title": "microsoft/WindowsAgentArena",
+              "description": "Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale ICML paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3270,13 +3270,13 @@
                 "last_commit": "2026-04-13T19:58:37Z",
                 "owner": "microsoft",
                 "repo": "WindowsAgentArena",
-                "stars": 887
+                "stars": 889
               }
             },
             {
               "node_type": "item",
-              "title": "2025",
-              "description": "The Berkeley Function Calling Leaderboard (BFCL): From Tool Use to Agentic Evaluation of Large Language Models ICML paper code",
+              "title": "ShishirPatil/gorilla",
+              "description": "The Berkeley Function Calling Leaderboard (BFCL): From Tool Use to Agentic Evaluation of Large Language Models ICML paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3298,7 +3298,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T19:53:29.496Z",
+    "last_updated": "2026-08-25T06:19:58.254Z",
     "original_repository": "selfimproving-agent/Awesome-Self-Improving-Agents",
     "original_repository_id": 1124003611,
     "original_repository_sha": "4a2d2ed87658f486c487d9661a7a785864181734",
